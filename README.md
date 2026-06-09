@@ -1,9 +1,8 @@
 # Smart_Pharma_System
 
-This is the Smart Traceability system for Pharmacy to check what medicine have in stock, what needed, what are their batch numbers and 
-what are their expiry dates for each medicines so that admin can updates stocks and the medicines which are nearly to expire will sell out first.  
+The Smart Traceability System for Pharmacies enables real-time tracking of medicine inventory, batch numbers and expiry dates. This system allows administrators to manage stock levels effectively and prioritize the sale of medications nearing their expiry date to reduce waste.
 
-
+Stack used in this Production Ready Webapp: Nextjs with Typescript, Tailwindcss and postgresql
 
 
 
